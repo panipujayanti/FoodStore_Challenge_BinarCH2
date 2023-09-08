@@ -60,14 +60,14 @@
                 android:id="@+id/iv_header_1"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:layout_margin="5dp"
+                android:layout_margin="4dp"
                 android:src="@drawable/ic_trolley" />
 
             <ImageView
                 android:id="@+id/iv_header_2"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:layout_margin="5dp"
+                android:layout_margin="4dp"
                 android:src="@drawable/ic_user" />
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
@@ -99,7 +99,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginStart="20dp"
-                android:padding="5dp"
+                android:padding="6dp"
                 android:text="@string/text_search"
                 android:textColor="@color/grey" />
         </LinearLayout>
@@ -154,7 +154,7 @@
                     android:id="@+id/ll_banner_desc"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:layout_marginStart="15dp"
+                    android:layout_marginStart="16dp"
                     android:orientation="vertical">
 
                     <TextView
@@ -169,7 +169,7 @@
                         style="@style/TextAppearance.Material3.LabelSmall"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="5dp"
+                        android:layout_marginTop="6dp"
                         android:alpha="0.7"
                         android:text="@string/text_complement_discount"
                         android:textColor="@color/white"
@@ -383,7 +383,7 @@
                     android:id="@+id/tv_menu_1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="5dp"
+                    android:layout_marginHorizontal="6dp"
                     android:ellipsize="end"
                     android:fontFamily="@font/poppins_bold"
                     android:text="@string/text_list_menu_1" />
@@ -393,7 +393,7 @@
                     style="@style/TextAppearance.Material3.BodySmall"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="5dp"
+                    android:layout_marginHorizontal="6dp"
                     android:ellipsize="end"
                     android:text="@string/text_price_list_menu_1"
                     android:textStyle="bold" />
@@ -424,7 +424,7 @@
                     android:id="@+id/tv_menu_2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="5dp"
+                    android:layout_marginHorizontal="6dp"
                     android:ellipsize="end"
                     android:fontFamily="@font/poppins_bold"
                     android:maxLines="2"
@@ -435,7 +435,7 @@
                     style="@style/TextAppearance.Material3.BodySmall"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="5dp"
+                    android:layout_marginHorizontal="6dp"
                     android:ellipsize="end"
                     android:text="@string/text_price_list_menu_2"
                     android:textStyle="bold" />
@@ -465,7 +465,7 @@
                     android:id="@+id/tv_menu_3"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="5dp"
+                    android:layout_marginHorizontal="6dp"
                     android:ellipsize="end"
                     android:fontFamily="@font/poppins_bold"
                     android:maxLines="2"
@@ -476,7 +476,7 @@
                     style="@style/TextAppearance.Material3.BodySmall"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="5dp"
+                    android:layout_marginHorizontal="6dp"
                     android:ellipsize="end"
                     android:text="@string/text_price_list_menu_3"
                     android:textStyle="bold" />
@@ -506,7 +506,7 @@
                     android:id="@+id/tv_menu_4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="5dp"
+                    android:layout_marginHorizontal="6dp"
                     android:ellipsize="end"
                     android:fontFamily="@font/poppins_bold"
                     android:maxLines="2"
@@ -517,7 +517,7 @@
                     style="@style/TextAppearance.Material3.BodySmall"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginHorizontal="5dp"
+                    android:layout_marginHorizontal="6dp"
                     android:ellipsize="end"
                     android:text="@string/text_price_list_menu_4"
                     android:textStyle="bold" />
