@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FoodStore</string>
+    <string name="text_search">Searching</string>
+    <string name="tv_burger">Burger</string>
+    <string name="tv_chicken_burger">Chicken Burger</string>
+    <string name="tv_combo_meat_burger">Combo Meat Burger</string>
+    <string name="tv_french_fries">French Fries</string>
+    <string name="text_discount">Diskon 30%</string>
+    <string name="text_complement_discount">Pesan makanan lewat aplikasi dan dapatkan diskonmu</string>
+    <string name="text_header_name">Hai Binarian,</string>
+    <string name="text_header_greeting">Mau makan apa hari ini?</string>
+    <string name="text_title_category_menu">Kategori Menu</string>
+    <string name="text_category_menu_1">Snack</string>
+    <string name="text_category_menu_2">Minuman</string>
+    <string name="text_category_menu_3">Burger</string>
+    <string name="text_category_menu_4">Dessert</string>
+    <string name="text_title_list_menu">List Menu Makanan</string>
+    <string name="text_list_menu_1">Triple Burger</string>
+    <string name="text_price_list_menu_1">Rp. 30.000</string>
+    <string name="text_list_menu_2">Spicy Burger</string>
+    <string name="text_price_list_menu_2">Rp. 25.000</string>
+    <string name="text_list_menu_3">Cheese Burger</string>
+    <string name="text_price_list_menu_3">Rp. 20.000</string>
+    <string name="text_list_menu_4">Chicken Burger</string>
+    <string name="text_price_list_menu_4">Rp. 35.000</string>
+</resources>
